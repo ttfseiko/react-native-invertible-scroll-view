@@ -75,7 +75,7 @@ let styles = StyleSheet.create({
   },
   horizontallyInverted: {
     transform: [
-      { scaleX: -1 },
+      { scaleX: 1 },
     ],
   },
 });
